@@ -1,5 +1,5 @@
 # Проект «Посмотри в окно»  
-**Практическое задание от Яндекс Практикума**
+**Учебный проект от Яндекс Практикума)**
 
 ---
 
@@ -32,9 +32,16 @@
 ---
 
 ## Макет проекта
-[Макет в Figma](https://www.figma.com/design/vCfXwrcREKdx7cs4aJuHPg/FD%3A-2-спринт.-Проектная-работа?node-id=0-1&p=f)
+[Открыть макет в Figma](https://www.figma.com/design/vCfXwrcREKdx7cs4aJuHPg/FD%3A-2-спринт.-Проектная-работа?node-id=0-1&p=f)
 
 ---
 
-##  Guthub
-Github: [anastasiakochetova]( https://github.com/anastasiakochetova)
+## Репозиторий проекта
+[https://github.com/anastasiakochetova/posmotri-v-okno-ad](https://github.com/anastasiakochetova/posmotri-v-okno-ad)
+
+---
+
+## Автор
+Проект выполнен в рамках обучения в **Яндекс Практикуме**.  
+Автор: *Анастасия Кочетова*
+
