@@ -37,11 +37,6 @@
 
 ---
 
-## Репозиторий проекта
-[https://github.com/anastasiakochetova/posmotri-v-okno-ad](https://github.com/anastasiakochetova/posmotri-v-okno-ad)
-
----
-
 ## Автор
 Проект выполнен в рамках обучения в **Яндекс Практикуме**.  
 Автор: *Анастасия Кочетова*
