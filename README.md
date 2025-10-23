@@ -1,3 +1,4 @@
+ https://github.com/anastasiakochetova/posmotri-v-okno-ad 
 # Проект «Посмотри в окно»  
 **Учебный проект от Яндекс Практикума)**
 
